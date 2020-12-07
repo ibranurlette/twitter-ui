@@ -1,0 +1,10 @@
+#backleft {
+  width: 100%;
+  height: 100%;
+}
+#title,
+.ContainerRegister {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
